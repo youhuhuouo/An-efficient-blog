@@ -158,17 +158,3 @@ header h1 {
   font-size: 20px; /* 调大字体大小 */
   text-align: center; /* 居中对齐 */
 }
-
-</head>
-<body>
-  <!-- 顶部导航栏 -->
-  <header>
-    <div id="hamburger" onclick="toggleSidebar()">
-      <i class="fas fa-bars"></i>
-    </div>
-    <h1>
-      <a href="https://egg-dan.space/" style="color: white; text-decoration: none;"> 📄Dan's Blog </a>
-    </h1>
-    <div id="weather">
-      <i class="fa-solid fa-earth-americas"></i>
-    </div>
